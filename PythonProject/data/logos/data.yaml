@@ -1,0 +1,14 @@
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+names: ['adidas', 'gucci', 'nike', 'puma']
+
+
+roboflow:
+  workspace: youssefworkspace-oyyxa
+  project: brand-logo-detection-ofaht
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/youssefworkspace-oyyxa/brand-logo-detection-ofaht/dataset/4

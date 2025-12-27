@@ -1,0 +1,13 @@
+path: data/logos             # Base dataset folder
+
+train: images/train          # Training images
+val: images/val              # Validation images
+test: images/test            # (Optional) Test images
+
+names:
+  0: adidas
+  1: gucci
+  2: nike
+  3: puma
+
+
